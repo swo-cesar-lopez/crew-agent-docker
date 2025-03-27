@@ -1,0 +1,25 @@
+# Entornos virtuales
+#venv/
+#env/
+#ENV/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos locales de desarrollo
+.env.local
+.env.development
+
+# Archivos de Git
+.git
+.gitignore
+
+# Otros archivos innecesarios
+.DS_Store
+Thumbs.db
